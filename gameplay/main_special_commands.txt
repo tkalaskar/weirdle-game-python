@@ -1,0 +1,121 @@
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 9
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Guess 9:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): h
+Valid commands: 
+- Provide a 6-character word with uniqe lowercase letters
+- a/A: Display keyboard
+- h/H: Display help text
+- q/Q: Quit current game
+
+Please enter your guess (h to see valid format): H
+Valid commands: 
+- Provide a 6-character word with uniqe lowercase letters
+- a/A: Display keyboard
+- h/H: Display help text
+- q/Q: Quit current game
+
+Please enter your guess (h to see valid format): a
+Keyboard:
+-----------------------
+a: -    b: -    c: -    
+d: -    e: -    f: -    
+g: -    h: -    i: -    
+j: -    k: -    l: -    
+m: -    n: -    o: -    
+p: -    q: -    r: -    
+s: -    t: -    u: -    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): A
+Keyboard:
+-----------------------
+a: -    b: -    c: -    
+d: -    e: -    f: -    
+g: -    h: -    i: -    
+j: -    k: -    l: -    
+m: -    n: -    o: -    
+p: -    q: -    r: -    
+s: -    t: -    u: -    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): q
+
+ Would you like to retry? y
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 6
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): Q
+
+ Would you like to retry? Y
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 5
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): q
+
+ Would you like to retry? n

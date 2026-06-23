@@ -1,0 +1,89 @@
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 5
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): flight
+-----------------------
+Guess 1:  flight
+Feedback: BYYBBB
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): policy
+-----------------------
+Guess 1:  flight
+Feedback: BYYBBB
+-----------------------
+Guess 2:  policy
+Feedback: GBYYYB
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): planet
+-----------------------
+Guess 1:  flight
+Feedback: BYYBBB
+-----------------------
+Guess 2:  policy
+Feedback: GBYYYB
+-----------------------
+Guess 3:  planet
+Feedback: GYBYYB
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): pencil
+-----------------------
+Guess 1:  flight
+Feedback: BYYBBB
+-----------------------
+Guess 2:  policy
+Feedback: GBYYYB
+-----------------------
+Guess 3:  planet
+Feedback: GYBYYB
+-----------------------
+Guess 4:  pencil
+Feedback: GGGGGG
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+
+Congratulations! You guessed the word!

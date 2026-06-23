@@ -1,0 +1,185 @@
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 5
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): abcdef
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): 123456
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): aabbcc
+
+Invalid guess! Guess must consist of unique lowercase characters
+
+Please enter your guess (h to see valid format): help
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): quit
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): glhf
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): format
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): forzen
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): frozen
+-----------------------
+Guess 1:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): frozen
+-----------------------
+Guess 1:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 2:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): frozen
+-----------------------
+Guess 1:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 2:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): frozen
+-----------------------
+Guess 1:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 2:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 4:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): frozen
+-----------------------
+Guess 1:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 2:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 4:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 5:  frozen
+Feedback: BBBBYY
+-----------------------
+
+Sorry, you've lost the game. The word was: pencil
+
+ Would you like to retry? y
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 6
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): 654321
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): fedcba
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): basket
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): q q
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): quit
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): q
+
+ Would you like to retry? n

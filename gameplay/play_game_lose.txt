@@ -1,0 +1,160 @@
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 6
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): square
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): salmon
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): oxygen
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  oxygen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): sliver
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): silver
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  oxygen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  silver
+Feedback: BYYBYB
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): filter
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): diamond
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): income
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  oxygen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  silver
+Feedback: BYYBYB
+-----------------------
+Guess 4:  income
+Feedback: YYYBBY
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): socket
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  oxygen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  silver
+Feedback: BYYBYB
+-----------------------
+Guess 4:  income
+Feedback: YYYBBY
+-----------------------
+Guess 5:  socket
+Feedback: BBYBYB
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): upload
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  oxygen
+Feedback: BBBBYY
+-----------------------
+Guess 3:  silver
+Feedback: BYYBYB
+-----------------------
+Guess 4:  income
+Feedback: YYYBBY
+-----------------------
+Guess 5:  socket
+Feedback: BBYBYB
+-----------------------
+Guess 6:  upload
+Feedback: BYYBBB
+-----------------------
+
+Sorry, you've lost the game. The word was: pencil

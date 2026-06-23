@@ -1,0 +1,367 @@
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 6
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): charge
+-----------------------
+Guess 1:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): broken
+-----------------------
+Guess 1:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 2:  broken
+Feedback: BBBBYY
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): marvel
+-----------------------
+Guess 1:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 2:  broken
+Feedback: BBBBYY
+-----------------------
+Guess 3:  marvel
+Feedback: BBBBYG
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): phrase
+-----------------------
+Guess 1:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 2:  broken
+Feedback: BBBBYY
+-----------------------
+Guess 3:  marvel
+Feedback: BBBBYG
+-----------------------
+Guess 4:  phrase
+Feedback: GBBBBY
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): survey
+-----------------------
+Guess 1:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 2:  broken
+Feedback: BBBBYY
+-----------------------
+Guess 3:  marvel
+Feedback: BBBBYG
+-----------------------
+Guess 4:  phrase
+Feedback: GBBBBY
+-----------------------
+Guess 5:  survey
+Feedback: BBBBYB
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): caught
+-----------------------
+Guess 1:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 2:  broken
+Feedback: BBBBYY
+-----------------------
+Guess 3:  marvel
+Feedback: BBBBYG
+-----------------------
+Guess 4:  phrase
+Feedback: GBBBBY
+-----------------------
+Guess 5:  survey
+Feedback: BBBBYB
+-----------------------
+Guess 6:  caught
+Feedback: YBBBBB
+-----------------------
+
+Sorry, you've lost the game. The word was: pencil
+
+ Would you like to retry? y
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 7
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): jungle
+-----------------------
+Guess 1:  jungle
+Feedback: BBYGBB
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): a
+Keyboard:
+-----------------------
+a: -    b: -    c: -    
+d: -    e: B    f: -    
+g: G    h: -    i: -    
+j: B    k: -    l: B    
+m: -    n: Y    o: -    
+p: -    q: -    r: -    
+s: -    t: -    u: B    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): broken
+-----------------------
+Guess 1:  jungle
+Feedback: BBYGBB
+-----------------------
+Guess 2:  broken
+Feedback: BGYBBG
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): y
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): A
+Keyboard:
+-----------------------
+a: -    b: B    c: -    
+d: -    e: B    f: -    
+g: G    h: -    i: -    
+j: B    k: B    l: B    
+m: -    n: G    o: Y    
+p: -    q: -    r: G    
+s: -    t: -    u: B    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): forzen
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): frozen
+-----------------------
+Guess 1:  jungle
+Feedback: BBYGBB
+-----------------------
+Guess 2:  broken
+Feedback: BGYBBG
+-----------------------
+Guess 3:  frozen
+Feedback: BGYBBG
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): dragon
+-----------------------
+Guess 1:  jungle
+Feedback: BBYGBB
+-----------------------
+Guess 2:  broken
+Feedback: BGYBBG
+-----------------------
+Guess 3:  frozen
+Feedback: BGYBBG
+-----------------------
+Guess 4:  dragon
+Feedback: GGGGGG
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+
+Congratulations! You guessed the word!
+
+ Would you like to retry? y
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: bright
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 9
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Guess 9:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): bright
+-----------------------
+Guess 1:  bright
+Feedback: GGGGGG
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Guess 9:  ------
+Feedback: ------
+-----------------------
+
+Congratulations! You guessed the word!
+
+ Would you like to retry? n

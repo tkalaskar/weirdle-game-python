@@ -1,0 +1,111 @@
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: h
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: q
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 1
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 2
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 3
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: @
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: %
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: five
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 7
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): h h
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): Help
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): h
+Valid commands: 
+- Provide a 6-character word with uniqe lowercase letters
+- a/A: Display keyboard
+- h/H: Display help text
+- q/Q: Quit current game
+
+Please enter your guess (h to see valid format): A
+Keyboard:
+-----------------------
+a: -    b: -    c: -    
+d: -    e: -    f: -    
+g: -    h: -    i: -    
+j: -    k: -    l: -    
+m: -    n: -    o: -    
+p: -    q: -    r: -    
+s: -    t: -    u: -    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): a
+Keyboard:
+-----------------------
+a: -    b: -    c: -    
+d: -    e: -    f: -    
+g: -    h: -    i: -    
+j: -    k: -    l: -    
+m: -    n: -    o: -    
+p: -    q: -    r: -    
+s: -    t: -    u: -    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): csse7030
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): Introduction to Programming
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): abcdef
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): Flight
+
+Invalid guess! Guess must consist of unique lowercase characters
+
+Please enter your guess (h to see valid format): planner
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): reports
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): quit
+
+Invalid guess! Guess must be 6 alphabetic characters
+
+Please enter your guess (h to see valid format): q

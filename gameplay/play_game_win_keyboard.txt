@@ -1,0 +1,290 @@
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 8
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): salmon
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): a
+Keyboard:
+-----------------------
+a: B    b: -    c: -    
+d: -    e: -    f: -    
+g: -    h: -    i: -    
+j: -    k: -    l: Y    
+m: B    n: Y    o: B    
+p: -    q: -    r: -    
+s: B    t: -    u: -    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): jungle
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  jungle
+Feedback: BBGBYY
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): A
+Keyboard:
+-----------------------
+a: B    b: -    c: -    
+d: -    e: Y    f: -    
+g: B    h: -    i: -    
+j: B    k: -    l: Y    
+m: B    n: G    o: B    
+p: -    q: -    r: -    
+s: B    t: -    u: B    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): hunter
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  jungle
+Feedback: BBGBYY
+-----------------------
+Guess 3:  hunter
+Feedback: BBGBYB
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): frozen
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  jungle
+Feedback: BBGBYY
+-----------------------
+Guess 3:  hunter
+Feedback: BBGBYB
+-----------------------
+Guess 4:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): magnet
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  jungle
+Feedback: BBGBYY
+-----------------------
+Guess 3:  hunter
+Feedback: BBGBYB
+-----------------------
+Guess 4:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 5:  magnet
+Feedback: BBBYYB
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): a
+Keyboard:
+-----------------------
+a: B    b: -    c: -    
+d: -    e: Y    f: B    
+g: B    h: B    i: -    
+j: B    k: -    l: Y    
+m: B    n: G    o: B    
+p: -    q: -    r: B    
+s: B    t: B    u: B    
+v: -    w: -    x: -    
+y: -    z: B    
+-----------------------
+Please enter your guess (h to see valid format): charge
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  jungle
+Feedback: BBGBYY
+-----------------------
+Guess 3:  hunter
+Feedback: BBGBYB
+-----------------------
+Guess 4:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 5:  magnet
+Feedback: BBBYYB
+-----------------------
+Guess 6:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 7:  ------
+Feedback: ------
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): policy
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  jungle
+Feedback: BBGBYY
+-----------------------
+Guess 3:  hunter
+Feedback: BBGBYB
+-----------------------
+Guess 4:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 5:  magnet
+Feedback: BBBYYB
+-----------------------
+Guess 6:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 7:  policy
+Feedback: GBYYYB
+-----------------------
+Guess 8:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): A
+Keyboard:
+-----------------------
+a: B    b: -    c: Y    
+d: -    e: Y    f: B    
+g: B    h: B    i: Y    
+j: B    k: -    l: Y    
+m: B    n: G    o: B    
+p: G    q: -    r: B    
+s: B    t: B    u: B    
+v: -    w: -    x: -    
+y: B    z: B    
+-----------------------
+Please enter your guess (h to see valid format): pencil
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  jungle
+Feedback: BBGBYY
+-----------------------
+Guess 3:  hunter
+Feedback: BBGBYB
+-----------------------
+Guess 4:  frozen
+Feedback: BBBBYY
+-----------------------
+Guess 5:  magnet
+Feedback: BBBYYB
+-----------------------
+Guess 6:  charge
+Feedback: YBBBBY
+-----------------------
+Guess 7:  policy
+Feedback: GBYYYB
+-----------------------
+Guess 8:  pencil
+Feedback: GGGGGG
+-----------------------
+
+Congratulations! You guessed the word!

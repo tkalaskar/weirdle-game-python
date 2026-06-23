@@ -1,0 +1,310 @@
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 6
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): salmon
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): a
+Keyboard:
+-----------------------
+a: B    b: -    c: -    
+d: -    e: -    f: -    
+g: -    h: -    i: -    
+j: -    k: -    l: Y    
+m: B    n: Y    o: B    
+p: -    q: -    r: -    
+s: B    t: -    u: -    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): carpet
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  carpet
+Feedback: YBBYYB
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): fabric
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  carpet
+Feedback: YBBYYB
+-----------------------
+Guess 3:  fabric
+Feedback: BBBBGY
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): singal
+
+Invalid guess! Guess must be a word from the given file
+ 
+Please enter your guess (h to see valid format): signal
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  carpet
+Feedback: YBBYYB
+-----------------------
+Guess 3:  fabric
+Feedback: BBBBGY
+-----------------------
+Guess 4:  signal
+Feedback: BYBYBG
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): A
+Keyboard:
+-----------------------
+a: B    b: B    c: Y    
+d: -    e: Y    f: B    
+g: B    h: -    i: G    
+j: -    k: -    l: G    
+m: B    n: Y    o: B    
+p: Y    q: -    r: B    
+s: B    t: B    u: -    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): golden
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  carpet
+Feedback: YBBYYB
+-----------------------
+Guess 3:  fabric
+Feedback: BBBBGY
+-----------------------
+Guess 4:  signal
+Feedback: BYBYBG
+-----------------------
+Guess 5:  golden
+Feedback: BBYBYY
+-----------------------
+Guess 6:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): silver
+-----------------------
+Guess 1:  salmon
+Feedback: BBYBBY
+-----------------------
+Guess 2:  carpet
+Feedback: YBBYYB
+-----------------------
+Guess 3:  fabric
+Feedback: BBBBGY
+-----------------------
+Guess 4:  signal
+Feedback: BYBYBG
+-----------------------
+Guess 5:  golden
+Feedback: BBYBYY
+-----------------------
+Guess 6:  silver
+Feedback: BYYBYB
+-----------------------
+
+Sorry, you've lost the game. The word was: pencil
+
+ Would you like to retry? y
+Welcome to Wordle!
+
+Please enter the number of guesses you require to guess the secret word. Your input must be a number between 5 and 9: 5
+-----------------------
+Guess 1:  ------
+Feedback: ------
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): a
+Keyboard:
+-----------------------
+a: -    b: -    c: -    
+d: -    e: -    f: -    
+g: -    h: -    i: -    
+j: -    k: -    l: -    
+m: -    n: -    o: -    
+p: -    q: -    r: -    
+s: -    t: -    u: -    
+v: -    w: -    x: -    
+y: -    z: -    
+-----------------------
+Please enter your guess (h to see valid format): upload
+-----------------------
+Guess 1:  upload
+Feedback: BBBYYY
+-----------------------
+Guess 2:  ------
+Feedback: ------
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): formal
+-----------------------
+Guess 1:  upload
+Feedback: BBBYYY
+-----------------------
+Guess 2:  formal
+Feedback: BYYBYB
+-----------------------
+Guess 3:  ------
+Feedback: ------
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): oxygen
+-----------------------
+Guess 1:  upload
+Feedback: BBBYYY
+-----------------------
+Guess 2:  formal
+Feedback: BYYBYB
+-----------------------
+Guess 3:  oxygen
+Feedback: YBBGBG
+-----------------------
+Guess 4:  ------
+Feedback: ------
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): A
+Keyboard:
+-----------------------
+a: Y    b: -    c: -    
+d: Y    e: B    f: B    
+g: G    h: -    i: -    
+j: -    k: -    l: B    
+m: B    n: G    o: Y    
+p: B    q: -    r: Y    
+s: -    t: -    u: B    
+v: -    w: -    x: B    
+y: B    z: -    
+-----------------------
+Please enter your guess (h to see valid format): marble
+-----------------------
+Guess 1:  upload
+Feedback: BBBYYY
+-----------------------
+Guess 2:  formal
+Feedback: BYYBYB
+-----------------------
+Guess 3:  oxygen
+Feedback: YBBGBG
+-----------------------
+Guess 4:  marble
+Feedback: BYYBBB
+-----------------------
+Guess 5:  ------
+Feedback: ------
+-----------------------
+Please enter your guess (h to see valid format): winter
+-----------------------
+Guess 1:  upload
+Feedback: BBBYYY
+-----------------------
+Guess 2:  formal
+Feedback: BYYBYB
+-----------------------
+Guess 3:  oxygen
+Feedback: YBBGBG
+-----------------------
+Guess 4:  marble
+Feedback: BYYBBB
+-----------------------
+Guess 5:  winter
+Feedback: BBYBBY
+-----------------------
+
+Sorry, you've lost the game. The word was: dragon
+
+ Would you like to retry? n
